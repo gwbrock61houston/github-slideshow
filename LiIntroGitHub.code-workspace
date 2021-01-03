@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "IntroGitHub"
+		},
+		{
+			"name": "github-slideshow",
+			"path": "IntroGitHub\\github-slideshow"
+		}
+	],
+	"settings": {}
+}
